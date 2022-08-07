@@ -71,7 +71,11 @@ GPA 3.26/5
 无线通讯技术、光通讯技术及IoT相关方向
 
 ## 个人照片
-
 ![麦文杰教授课题组](/withProfMai.jpg)
+<div align='center'>麦文杰教授课题组合影</div><br>
+
 ![无线通讯暑期课程合影](/Danijela.jpg)
+<div align='center'>无线通讯暑期课程合影</div><br>
+
 ![李依明教授课题组](/withProfLi.jpg)
+<div align='center'>李依明教授课题组合影</div><br>
