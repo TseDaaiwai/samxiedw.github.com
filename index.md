@@ -47,8 +47,8 @@ experiment reproduction. The research direction I have participated in can be ro
 - **Photoelectronic detector (09/2018 - 07/2021)**<br>
 　I joined Professor Mai Wenjie’s research group in the Department of Physics of Jinan University in the second year of my 
  undergraduate. I participated in the research of photoelectronic detectors, mainly involved in device preparation and 
- characterization, and published two papers in ACSAMI and Journal of Physics D: Applied Physics as the third and the fifth 
- author respectively. The research direction of my graduation thesis is related to lead-free perovskite photodetectors.
+ characterization, and published two papers in ACSAMI and Journal of Physics D: Applied Physics. The research direction of 
+ my graduation thesis is related to lead-free perovskite photodetectors.
  
 - **Wireless communication system (07/2020 - 08/2020)**<br>
 　Summer school project, took the course "Wireless Communication System Design" with Professor Danijela Cabric from the 
@@ -65,6 +65,14 @@ experiment reproduction. The research direction I have participated in can be ro
  I participate in the research of super-resolution microscope systems and mainly involved in the construction of interferometric scattering imaging system 
  and the maintenance of the electronic system and optical path of the original microscope system.
 
+<br>
+
+## Interest in
+
+Wireless Communication Technology, Light Communication Technology, and IoT related areas
+
+<br>
+
 ## Publication
 
 - **[Reducing the Dark Current of Cuprous Oxide/Au Schottky Photodetector for High Signal-to-noise Ratio Imaging](https://doi.org/10.1088/1361-6463/ab7fd7), 2020** <br>
@@ -77,15 +85,15 @@ Liu, Y., Zhu, J., Xie, D., Gao, Y., Yan, Y., Li, W., ... & Mai, W. (2020). Reduc
 Liu, Y., Zhu, J., Cen, G., Zheng, J., Xie, D., Zhao, Z., ... & Mai, W. (2019). Valence-State Controllable Fabrication of Cu2–x O/Si Type-II Heterojunction for High-Performance Photodetectors. *ACS applied materials & interfaces, 11(46)*, 43376-43382.<br>
 ——Solution spin coating method fabircating High-purity Cu2-xO/Si thin film photodetectors with small thickness and controllable valence state
 
+<br>
+
 ## Personal Skills
 
 　Coding languages: C Language (Major Course), Python (self-study, basic statements and library calling), Matlab (Realising the model of computing physics
- , Toolbox calling, etc.)<br>
+ , Toolbox calling, etc.) <br>
 　Softwares: Altium Designer(self-study, for needs of circuit design during working as RA), Solidwork (self-study, for needs of model design during working as RA)
 
-## Interest in
-
-Wireless Communication Technology, Light Communication Technology, and IoT related areas
+<br>
 
 ## Photos
 
