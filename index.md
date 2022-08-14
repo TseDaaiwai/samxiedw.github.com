@@ -10,7 +10,7 @@
       <p><a href="/index-cn.html">中文</a></p>
     </td>
     <td width="25%">
-      <img src="/PersonalPhoto.png" width="100%">
+      <img src="/PersonalPhoto.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -101,19 +101,19 @@ Liu, Y., Zhu, J., Cen, G., Zheng, J., Xie, D., Zhao, Z., ... & Mai, W. (2019). V
   <table border="0">
     <tr>
       <td width="80%">
-        <img src="/withProfMai.png" width="100%">
+        <img src="/withProfMai.jpg" width="100%">
         <div align='center'>Research Group of Prof. Mai Wenjie</div><br>
       </td>
     </tr>
     <tr>
       <td width="80%">
-        <img src="/withProfLi.png" width="100%">
+        <img src="/withProfLi.jpg" width="100%">
         <div align='center'>Research Group of A.P. Li Yiming</div><br>
       </td>
     </tr>
     <tr>
       <td width="80%">
-        <img src="/Danijela.png" width="100%">
+        <img src="/Danijela.jpg" width="100%">
         <div align='center'>Photo of Wireless Communication Summer Course</div><br>
       </td>
     </tr>
