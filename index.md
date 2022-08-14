@@ -7,7 +7,7 @@
       <p><b> Master's Student </b></p>
       <p><b> Electronic & Infromation Engineering, The Hong Kong Polytechnic University </b></p>
       <p><b> Email：dawei.xie@connect.polyu.hk </b></p>
-      <p><a href="/index-cn.html">中文</a></p>
+      <p><a href="/index-cn.md">中文</a></p>
     </td>
     <td width="25%">
       <img src="/PersonalPhoto.jpg" width="100%">
