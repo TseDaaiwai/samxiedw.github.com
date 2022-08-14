@@ -52,6 +52,12 @@ GPA 3.26/5
 
 <br>
 
+## 兴趣方向
+
+无线通讯技术、光通讯技术及IoT相关方向 
+
+<br>
+
 ## 发表文章
 
 - **[Reducing the Dark Current of Cuprous Oxide/Au Schottky Photodetector for High Signal-to-noise Ratio Imaging](https://doi.org/10.1088/1361-6463/ab7fd7), 2020** <br>
@@ -73,13 +79,7 @@ Liu, Y., Zhu, J., Cen, G., Zheng, J., Xie, D., Zhao, Z., ... & Mai, W. (2019). V
 
 <br>
 
-## 兴趣方向
-
-无线通讯技术、光通讯技术及IoT相关方向 
-
-<br>
-
-## 个人照片
+## 照片
 
 <div>
   <table border="0">
