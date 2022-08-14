@@ -6,7 +6,7 @@
       <p><b> 硕士研究生 </b></p>
       <p><b> 香港理工大学 电子与资讯工程 </b></p>
       <p><b> Email：dawei.xie@connect.polyu.hk </b></p>
-      <p><a href="/index.html">English Version</a></p>
+      <p><a href="/index.md">English Version</a></p>
     </td>
     <td width="25%">
       <img src="/PersonalPhoto.jpg" width="100%">
