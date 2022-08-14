@@ -9,7 +9,7 @@
       <p><a href="/index.md">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="/PersonalPhoto.jpg" width="100%">
+      <img src="/PersonalPhoto.png" width="100%">
     </td>
   </tr>
 </table>
@@ -85,19 +85,19 @@ Liu, Y., Zhu, J., Cen, G., Zheng, J., Xie, D., Zhao, Z., ... & Mai, W. (2019). V
   <table border="0">
     <tr>
       <td width="80%">
-        <img src="/withProfMai.jpg" width="100%">
+        <img src="/withProfMai.png" width="100%">
         <div align='center'>麦文杰教授课题组合影</div><br>
       </td>
     </tr>
     <tr>
       <td width="80%">
-        <img src="/withProfLi.jpg" width="100%">
+        <img src="/withProfLi.png" width="100%">
         <div align='center'>李依明副教授课题组合影</div><br>
       </td>
     </tr>
     <tr>
       <td width="80%">
-        <img src="/Danijela.jpg" width="100%">
+        <img src="/Danijela.png" width="100%">
         <div align='center'>无线通讯系统设计暑期课程合影</div><br>
       </td>
     </tr>
