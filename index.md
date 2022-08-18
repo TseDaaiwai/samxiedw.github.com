@@ -5,8 +5,8 @@
     <td width="75%">
       <h1> XIE Dawei </h1>
       <p><b> Master's Student </b></p>
-      <p><b> Electronic & Infromation Engineering </b></p>
       <p><b> The Hong Kong Polytechnic University </b></p>
+      <p><b> Electronic & Infromation Engineering </b></p>
       <p><b> Email：dawei.xie@connect.polyu.hk </b></p>
       <p><a href="https://tsedaaiwai.github.io/samxiedw.github.io/index-cn.html">中文</a></p>
     </td>
