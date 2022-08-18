@@ -4,7 +4,8 @@
     <td width="75%">
       <h1> 谢大炜 </h1>
       <p><b> 硕士研究生 </b></p>
-      <p><b> 香港理工大学 电子与资讯工程 </b></p>
+      <p><b> 香港理工大学 </b></p>
+      <p><b> 电子与资讯工程 </b></p>
       <p><b> Email：dawei.xie@connect.polyu.hk </b></p>
       <p><a href="https://tsedaaiwai.github.io/samxiedw.github.io/">English Version</a></p>
     </td>
