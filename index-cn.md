@@ -6,10 +6,10 @@
       <p><b> 硕士研究生 </b></p>
       <p><b> 香港理工大学 电子与资讯工程 </b></p>
       <p><b> Email：dawei.xie@connect.polyu.hk </b></p>
-      <p><a href="/index.html">English Version</a></p>
+      <p><a href="https://tsedaaiwai.github.io/samxiedw.github.io/">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="/PersonalPhoto.jpg" width="100%">
+      <img src="https://github.com/TseDaaiwai/samxiedw.github.io/blob/gh-pages/PersonalPhoto.jpg?raw=true" width="100%">
     </td>
   </tr>
 </table>
@@ -85,19 +85,19 @@ Liu, Y., Zhu, J., Cen, G., Zheng, J., Xie, D., Zhao, Z., ... & Mai, W. (2019). V
   <table border="0">
     <tr>
       <td width="80%">
-        <img src="/withProfMai.jpg" width="100%">
+        <img src="https://github.com/TseDaaiwai/samxiedw.github.io/blob/gh-pages/withProfMai.jpg?raw=true" width="100%">
         <div align='center'>麦文杰教授课题组合影</div><br>
       </td>
     </tr>
     <tr>
       <td width="80%">
-        <img src="/withProfLi.jpg" width="100%">
+        <img src="https://github.com/TseDaaiwai/samxiedw.github.io/blob/gh-pages/withProfLi.jpg?raw=true" width="100%">
         <div align='center'>李依明副教授课题组合影</div><br>
       </td>
     </tr>
     <tr>
       <td width="80%">
-        <img src="/Danijela.jpg" width="100%">
+        <img src="https://github.com/TseDaaiwai/samxiedw.github.io/blob/gh-pages/Danijela.jpg?raw=true" width="100%">
         <div align='center'>无线通讯系统设计暑期课程合影</div><br>
       </td>
     </tr>
