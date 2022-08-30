@@ -70,7 +70,7 @@ experiment reproduction. The research direction I have participated in can be ro
 
 ## Interest in
 
-Wireless Communication Technology, Light Communication Technology, and IoT related areas
+Optical Sensing Technology, Wireless Communication Technology, and IoT related areas
 
 <br>
 
