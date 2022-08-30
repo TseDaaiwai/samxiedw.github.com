@@ -78,12 +78,12 @@ Wireless Communication Technology, Light Communication Technology, and IoT relat
 
 - **[Reducing the Dark Current of Cuprous Oxide/Au Schottky Photodetector for High Signal-to-noise Ratio Imaging](https://doi.org/10.1088/1361-6463/ab7fd7), 2020** <br>
 **Journal of Physics D: Applied Physics**<br>
-Liu, Y., Zhu, J., Xie, D., Gao, Y., Yan, Y., Li, W., ... & Mai, W. (2020). Reducing the dark current of cuprous oxide/Au schottky photodetector for high signal-to-noise ratio imaging. *Journal of Physics D: Applied Physics, 53(22)*, 224003.<br>
+Liu, Y., Zhu, J., **Xie, D.**, Gao, Y., Yan, Y., Li, W., ... & Mai, W. (2020). Reducing the dark current of cuprous oxide/Au schottky photodetector for high signal-to-noise ratio imaging. *Journal of Physics D: Applied Physics, 53(22)*, 224003.<br>
 ——Biasing Cu2O/Au Schottky Photodetectors to Reduce Dark Current and Improve Signal-to-Noise Ratio
 
 - **[Valence-State Controllable Fabrication of Cu2-xO/Si Type-II Heterojunction for High-Performance Photodetectors](https://doi.org/10.1021/acsami.9b15727), 2019** <br>
 **ACS Applied Materials & Interfaces**<br>
-Liu, Y., Zhu, J., Cen, G., Zheng, J., Xie, D., Zhao, Z., ... & Mai, W. (2019). Valence-State Controllable Fabrication of Cu2–x O/Si Type-II Heterojunction for High-Performance Photodetectors. *ACS applied materials & interfaces, 11(46)*, 43376-43382.<br>
+Liu, Y., Zhu, J., Cen, G., Zheng, J., **Xie, D.**, Zhao, Z., ... & Mai, W. (2019). Valence-State Controllable Fabrication of Cu2–x O/Si Type-II Heterojunction for High-Performance Photodetectors. *ACS applied materials & interfaces, 11(46)*, 43376-43382.<br>
 ——Solution spin coating method fabircating High-purity Cu2-xO/Si thin film photodetectors with small thickness and controllable valence state
 
 <br>
